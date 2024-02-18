@@ -1,1 +1,1 @@
-# Made this project in college for detection of face mask in ATM as theft is increasing alot and trying to recognize the thiefs is becoming quite challenging, so to minimize it upto some extent this project was made.
+# Made this project in college for detection of face mask in ATM as theft is increasing alot and trying to recognize the thievs is becoming quite challenging, so to minimize it upto some extent this project was made.
